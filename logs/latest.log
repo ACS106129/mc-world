@@ -1,0 +1,56 @@
+[00:01:05] [Server thread/INFO]: hellme lost connection: Disconnected
+[00:01:05] [Server thread/INFO]: hellme left the game
+[00:01:24] [Server thread/INFO]: hellme[/127.0.0.1:51943] logged in with entity id 8863 at (72.1650104482623, 67.0, 238.23788037428272)
+[00:01:24] [Server thread/INFO]: hellme joined the game
+[00:14:52] [Server thread/INFO]: Rayz lost connection: Disconnected
+[00:14:52] [Server thread/INFO]: Rayz left the game
+[00:14:55] [Server thread/INFO]: Rayz[/106.107.182.131:63067] logged in with entity id 11530 at (-3.241827467459529, 71.0, 246.02438645515318)
+[00:14:55] [Server thread/INFO]: Rayz joined the game
+[00:18:22] [Server thread/INFO]: hellme lost connection: Disconnected
+[00:18:22] [Server thread/INFO]: hellme left the game
+[00:18:25] [Server thread/INFO]: hellme[/127.0.0.1:52032] logged in with entity id 11951 at (-15.945235074696814, 71.0, 237.26219360766294)
+[00:18:25] [Server thread/INFO]: hellme joined the game
+[00:38:19] [Server thread/INFO]: Rayz has made the advancement [The Parrots and the Bats]
+[00:39:38] [Server thread/INFO]: <Rayz> \help
+[00:39:42] [Server thread/INFO]: <Rayz> tp home
+[00:43:09] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-196, y=61, z=214} fu{x=-196, y=62, z=214}
+[00:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[00:47:04] [Server thread/INFO]: Rayz has made the advancement [Sweet Dreams]
+[00:49:13] [Server thread/INFO]: hellme has made the advancement [Sweet Dreams]
+[00:49:34] [Server thread/INFO]: hellme has made the advancement [Acquire Hardware]
+[00:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[01:00:02] [Server thread/WARN]: Rayz moved too quickly! 10.127006642652077,0.023088109101550458,1.228602388472325
+[01:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
+[01:06:33] [Server thread/INFO]: <Rayz> tp home
+[01:06:46] [Server thread/INFO]: <hellme> tp
+[01:39:06] [Server thread/INFO]: hellme lost connection: Disconnected
+[01:39:06] [Server thread/INFO]: hellme left the game
+[01:39:08] [Server thread/INFO]: hellme[/127.0.0.1:52152] logged in with entity id 30230 at (56.85662519244113, 70.0, 242.14892289362345)
+[01:39:08] [Server thread/INFO]: hellme joined the game
+[01:39:39] [Server thread/INFO]: hellme lost connection: Disconnected
+[01:39:39] [Server thread/INFO]: hellme left the game
+[01:39:41] [Server thread/INFO]: hellme[/127.0.0.1:52155] logged in with entity id 30325 at (-9.565087030694567, 71.0, 237.8989806977808)
+[01:39:41] [Server thread/INFO]: hellme joined the game
+[01:40:12] [Server thread/INFO]: hellme lost connection: Disconnected
+[01:40:12] [Server thread/INFO]: hellme left the game
+[01:41:18] [Server thread/INFO]: hellme[/127.0.0.1:52303] logged in with entity id 30608 at (-24.69999998807907, 71.0, 237.8282273899846)
+[01:41:18] [Server thread/INFO]: hellme joined the game
+[01:42:33] [Server thread/INFO]: Rayz has made the advancement [A Seedy Place]
+[02:00:04] [Server thread/WARN]: Rayz moved too quickly! -6.181298092651472,2.249187078744683,-7.71216876630541
+[02:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[02:05:26] [Server thread/INFO]: Rayz lost connection: Disconnected
+[02:05:26] [Server thread/INFO]: Rayz left the game
+[02:06:43] [Server thread/INFO]: hellme lost connection: Disconnected
+[02:06:43] [Server thread/INFO]: hellme left the game
+[02:09:41] [Server thread/INFO]: Stopping server
+[02:09:41] [Server thread/INFO]: Saving players
+[02:09:41] [Server thread/INFO]: Saving worlds
+[02:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
