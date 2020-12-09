@@ -1,56 +1,30 @@
-[00:01:05] [Server thread/INFO]: hellme lost connection: Disconnected
-[00:01:05] [Server thread/INFO]: hellme left the game
-[00:01:24] [Server thread/INFO]: hellme[/127.0.0.1:51943] logged in with entity id 8863 at (72.1650104482623, 67.0, 238.23788037428272)
-[00:01:24] [Server thread/INFO]: hellme joined the game
-[00:14:52] [Server thread/INFO]: Rayz lost connection: Disconnected
-[00:14:52] [Server thread/INFO]: Rayz left the game
-[00:14:55] [Server thread/INFO]: Rayz[/106.107.182.131:63067] logged in with entity id 11530 at (-3.241827467459529, 71.0, 246.02438645515318)
-[00:14:55] [Server thread/INFO]: Rayz joined the game
-[00:18:22] [Server thread/INFO]: hellme lost connection: Disconnected
-[00:18:22] [Server thread/INFO]: hellme left the game
-[00:18:25] [Server thread/INFO]: hellme[/127.0.0.1:52032] logged in with entity id 11951 at (-15.945235074696814, 71.0, 237.26219360766294)
-[00:18:25] [Server thread/INFO]: hellme joined the game
-[00:38:19] [Server thread/INFO]: Rayz has made the advancement [The Parrots and the Bats]
-[00:39:38] [Server thread/INFO]: <Rayz> \help
-[00:39:42] [Server thread/INFO]: <Rayz> tp home
-[00:43:09] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-196, y=61, z=214} fu{x=-196, y=62, z=214}
-[00:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
-[00:47:04] [Server thread/INFO]: Rayz has made the advancement [Sweet Dreams]
-[00:49:13] [Server thread/INFO]: hellme has made the advancement [Sweet Dreams]
-[00:49:34] [Server thread/INFO]: hellme has made the advancement [Acquire Hardware]
-[00:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
-[01:00:02] [Server thread/WARN]: Rayz moved too quickly! 10.127006642652077,0.023088109101550458,1.228602388472325
-[01:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
-[01:06:33] [Server thread/INFO]: <Rayz> tp home
-[01:06:46] [Server thread/INFO]: <hellme> tp
-[01:39:06] [Server thread/INFO]: hellme lost connection: Disconnected
-[01:39:06] [Server thread/INFO]: hellme left the game
-[01:39:08] [Server thread/INFO]: hellme[/127.0.0.1:52152] logged in with entity id 30230 at (56.85662519244113, 70.0, 242.14892289362345)
-[01:39:08] [Server thread/INFO]: hellme joined the game
-[01:39:39] [Server thread/INFO]: hellme lost connection: Disconnected
-[01:39:39] [Server thread/INFO]: hellme left the game
-[01:39:41] [Server thread/INFO]: hellme[/127.0.0.1:52155] logged in with entity id 30325 at (-9.565087030694567, 71.0, 237.8989806977808)
-[01:39:41] [Server thread/INFO]: hellme joined the game
-[01:40:12] [Server thread/INFO]: hellme lost connection: Disconnected
-[01:40:12] [Server thread/INFO]: hellme left the game
-[01:41:18] [Server thread/INFO]: hellme[/127.0.0.1:52303] logged in with entity id 30608 at (-24.69999998807907, 71.0, 237.8282273899846)
-[01:41:18] [Server thread/INFO]: hellme joined the game
-[01:42:33] [Server thread/INFO]: Rayz has made the advancement [A Seedy Place]
-[02:00:04] [Server thread/WARN]: Rayz moved too quickly! -6.181298092651472,2.249187078744683,-7.71216876630541
-[02:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
-[02:05:26] [Server thread/INFO]: Rayz lost connection: Disconnected
-[02:05:26] [Server thread/INFO]: Rayz left the game
-[02:06:43] [Server thread/INFO]: hellme lost connection: Disconnected
-[02:06:43] [Server thread/INFO]: hellme left the game
-[02:09:41] [Server thread/INFO]: Stopping server
-[02:09:41] [Server thread/INFO]: Saving players
-[02:09:41] [Server thread/INFO]: Saving worlds
-[02:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:15:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[15:15:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:01] [main/INFO]: Reloading ResourceManager: Default
+[15:15:02] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:15:02] [Worker-Main-10/INFO]: Loaded 927 advancements
+[15:15:04] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[15:15:04] [Server thread/INFO]: Loading properties
+[15:15:04] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:04] [Server thread/INFO]: Generating keypair
+[15:15:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:05] [Server thread/INFO]: Using epoll channel type
+[15:15:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:15:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:15:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:15:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:15:05] [Server thread/INFO]: Preparing level "world"
+[15:15:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:07] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:07] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:07] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:07] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:07] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:08] [Server thread/INFO]: Time elapsed: 2538 ms
+[15:15:08] [Server thread/INFO]: Done (2.807s)! For help, type "help"
+[15:15:42] [Server thread/INFO]: hellme[/114.38.64.129:50475] logged in with entity id 262 at (-14.675595233584813, 71.0, 240.58382230870077)
+[15:15:42] [Server thread/INFO]: hellme joined the game

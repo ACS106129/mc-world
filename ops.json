@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "9c4d1108-36ad-3b25-8945-06ac4924e142",
+    "name": "hellme",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
