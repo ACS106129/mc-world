@@ -28,3 +28,90 @@
 [15:15:08] [Server thread/INFO]: Done (2.807s)! For help, type "help"
 [15:15:42] [Server thread/INFO]: hellme[/114.38.64.129:50475] logged in with entity id 262 at (-14.675595233584813, 71.0, 240.58382230870077)
 [15:15:42] [Server thread/INFO]: hellme joined the game
+[15:23:35] [Server thread/INFO]: hellme lost connection: Disconnected
+[15:23:35] [Server thread/INFO]: hellme left the game
+[16:52:04] [Server thread/INFO]: Rayz[/106.107.182.131:49170] logged in with entity id 1592 at (-23.403720644569773, 71.0, 234.84118171616075)
+[16:52:04] [Server thread/INFO]: Rayz joined the game
+[17:02:56] [Server thread/WARN]: Rayz moved too quickly! 1.0460043769397984,0.0,-10.024593312585552
+[17:07:20] [Server thread/INFO]: Rayz lost connection: Timed out
+[17:07:20] [Server thread/INFO]: Rayz left the game
+[17:07:26] [Server thread/INFO]: Rayz[/106.107.182.131:49186] logged in with entity id 3548 at (-14.631699064661035, 71.0, 257.9996768029886)
+[17:07:26] [Server thread/INFO]: Rayz joined the game
+[17:16:12] [Server thread/INFO]: Rayz lost connection: Timed out
+[17:16:12] [Server thread/INFO]: Rayz left the game
+[17:16:35] [Server thread/INFO]: Rayz[/106.107.182.131:49311] logged in with entity id 4429 at (-16.94073404258986, 71.0, 243.5757541874419)
+[17:16:35] [Server thread/INFO]: Rayz joined the game
+[17:20:53] [Server thread/WARN]: Rayz moved wrongly!
+[17:28:44] [Server thread/INFO]: Made Rayz a server operator
+[17:29:28] [Server thread/INFO]: hellme[/114.38.64.129:63273] logged in with entity id 5994 at (-22.961071889660044, 71.0, 237.21164903054608)
+[17:29:28] [Server thread/INFO]: hellme joined the game
+[17:29:34] [Server thread/INFO]: <Rayz> ?
+[17:29:41] [Server thread/INFO]: <Rayz> 管理員?
+[17:29:45] [Server thread/INFO]: <hellme> 對
+[17:29:48] [Server thread/INFO]: <Rayz> DC?
+[17:29:54] [Server thread/INFO]: <hellme> 這樣就可以用指令了
+[17:30:04] [Server thread/INFO]: hellme lost connection: Disconnected
+[17:30:04] [Server thread/INFO]: hellme left the game
+[17:30:04] [Server thread/INFO]: <Rayz> OK
+[17:51:40] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/8470, l='ServerLevel[world]', x=-37.54, y=71.00, z=255.67]
+[17:54:09] [Server thread/INFO]: Rayz lost connection: Timed out
+[17:54:09] [Server thread/INFO]: Rayz left the game
+[17:55:08] [Server thread/INFO]: Rayz[/106.107.182.131:49379] logged in with entity id 8752 at (-22.491501331106466, 71.0, 233.39751946293558)
+[17:55:08] [Server thread/INFO]: Rayz joined the game
+[18:00:33] [Server thread/INFO]: Rayz lost connection: Disconnected
+[18:00:33] [Server thread/INFO]: Rayz left the game
+[19:57:29] [Server thread/INFO]: Rayz[/106.107.182.131:50111] logged in with entity id 9294 at (-26.56050857319411, 71.0, 236.17040822762453)
+[19:57:29] [Server thread/INFO]: Rayz joined the game
+[19:58:03] [Server thread/INFO]: 阿靈靈[/49.216.229.198:47059] logged in with entity id 9369 at (74.5, 67.0, 234.5)
+[19:58:03] [Server thread/INFO]: 阿靈靈 joined the game
+[19:59:53] [Server thread/WARN]: 阿靈靈 moved too quickly! -10.032812825342154,0.0,0.22612649873897794
+[19:59:59] [Server thread/INFO]: <Rayz> 又見
+[20:00:01] [Server thread/INFO]: <Rayz> 點床
+[20:00:35] [Server thread/INFO]: <Rayz> 點床
+[20:00:40] [Server thread/INFO]: <Rayz> 右鍵
+[20:00:47] [Server thread/INFO]: <Rayz> 設定重生點了嗎?
+[20:00:55] [Server thread/INFO]: <Rayz> OK
+[20:01:32] [Server thread/INFO]: <阿靈靈> 好喔
+[20:01:40] [Server thread/INFO]: <Rayz> 房子還在整修
+[20:02:04] [Server thread/INFO]: <阿靈靈> 還不太習慣操作
+[20:02:21] [Server thread/INFO]: <Rayz> 慢慢來
+[20:02:27] [Server thread/INFO]: <阿靈靈> 你等等要繼續玩嗎
+[20:02:42] [Server thread/INFO]: <阿靈靈> 我等等應該就下了
+[20:02:55] [Server thread/INFO]: <Rayz> OK 我就順便收成
+[20:03:00] [Server thread/INFO]: <Rayz> 晚點可能會在上限吧
+[20:03:08] [Server thread/INFO]: <阿靈靈> 好喔
+[20:03:24] [Server thread/INFO]: <阿靈靈> 還有位甚麼預設是黑人阿
+[20:03:40] [Server thread/INFO]: <Rayz> 不知道ㄝ
+[20:03:46] [Server thread/INFO]: <Rayz> 我就是史帝夫
+[20:03:56] [Server thread/INFO]: <Rayz> 我同學是看起來像雷神索爾的皮膚
+[20:04:09] [Server thread/INFO]: <阿靈靈> 我覺得我長得跟你差不多
+[20:04:20] [Server thread/INFO]: <Rayz> 史蒂夫阿
+[20:04:25] [Server thread/INFO]: <阿靈靈> 笑死
+[20:04:36] [Server thread/INFO]: <阿靈靈> 難怪
+[20:08:59] [Server thread/INFO]: <Rayz> 左邊有工作台
+[20:09:01] [Server thread/INFO]: <Rayz> 跟食物
+[20:09:05] [Server thread/INFO]: <Rayz> 還有一些資源
+[20:09:32] [Server thread/INFO]: <阿靈靈> 我也做了一個工作檯OWO
+[20:10:50] [Server thread/INFO]: <阿靈靈> 要睡覺ㄇ
+[20:10:59] [Server thread/INFO]: <Rayz> 都
+[20:11:03] [Server thread/INFO]: <Rayz> 可
+[20:11:30] [Server thread/INFO]: <阿靈靈> 我怕怪物所以-3-
+[20:11:40] [Server thread/INFO]: <Rayz> 我有用圍牆圍起來
+[20:11:48] [Server thread/INFO]: <Rayz> 然後別盯著中介使者的眼睛
+[20:11:53] [Server thread/INFO]: <Rayz> 然後支柱會排強
+[20:11:58] [Server thread/INFO]: <Rayz> 爬牆
+[20:12:02] [Server thread/INFO]: <阿靈靈> 好喔
+[20:12:13] [Server thread/INFO]: <Rayz> 中介使者在外面
+[20:12:19] [Server thread/INFO]: <阿靈靈> 我想說苦力怕也是會炸掉
+[20:12:29] [Server thread/INFO]: <Rayz> 別靠太近就還好
+[20:12:42] [Server thread/INFO]: <Rayz> 我們還沒挖礦所以鐵礦及缺
+[20:12:54] [Server thread/INFO]: <阿靈靈> 恩恩
+[20:13:26] [Server thread/INFO]: <阿靈靈> 那我先閃好了，時間差不多了 之後看看有甚麼可以憶起做
+[20:13:44] [Server thread/INFO]: <Rayz> OK
+[20:13:53] [Server thread/INFO]: <阿靈靈> 好魔性喔這遊戲 難怪這麼花時間
+[20:14:00] [Server thread/INFO]: <阿靈靈> 88
+[20:14:03] [Server thread/INFO]: <Rayz> 88
+[20:14:18] [Server thread/INFO]: 阿靈靈 lost connection: Disconnected
+[20:14:18] [Server thread/INFO]: 阿靈靈 left the game
+[20:20:26] [Server thread/INFO]: Rayz lost connection: Disconnected
+[20:20:26] [Server thread/INFO]: Rayz left the game
