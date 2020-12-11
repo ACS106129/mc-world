@@ -10,5 +10,11 @@
     "name": "Rayz",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7161d3fd-e7f9-3a85-8dad-01ec9fe0993e",
+    "name": "Zark",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
