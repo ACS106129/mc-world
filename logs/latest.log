@@ -1,186 +1,24 @@
-[00:03:13] [Server thread/INFO]: <Zark> 商人這樣會死嗎? owo
-[00:03:30] [Server thread/INFO]: <hellme> 不會
-[00:12:55] [Server thread/INFO]: <Zark> 先閃拉
-[00:12:58] [Server thread/INFO]: <Rayz> 8
-[00:12:58] [Server thread/INFO]: <Zark> ㄅㄅ
-[00:13:09] [Server thread/INFO]: Zark lost connection: Disconnected
-[00:13:09] [Server thread/INFO]: Zark left the game
-[00:21:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/126275, l='ServerLevel[world]', x=-34.63, y=71.00, z=254.85]
-[00:21:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/126275, l='ServerLevel[world]', x=-34.63, y=71.00, z=254.85]
-[00:23:28] [Server thread/INFO]: hellme drowned
-[00:23:29] [Server thread/WARN]: hellme moved too quickly! -53.79582091455444,3.25569713625282,28.126526048633508
-[00:41:27] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[00:41:27] [Server thread/WARN]: hellme moved too quickly! -208.80828527538267,-7.0,22.268468616064354
-[00:50:41] [Server thread/INFO]: [Rayz: Teleported hellme to Rayz]
-[00:50:41] [Server thread/WARN]: hellme moved too quickly! -41.87052310296043,0.0,21.974331035945028
-[00:53:19] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
-[00:53:19] [Server thread/WARN]: Rayz moved too quickly! 295.69927328857926,-1.0,-48.91128678030947
-[00:53:19] [Server thread/WARN]: Rayz moved too quickly! 295.69927328857926,-1.0,-48.91128678030947
-[01:10:21] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[01:10:21] [Server thread/WARN]: hellme moved too quickly! -791.8406919865594,-31.0,337.7911398291077
-[01:18:55] [Server thread/WARN]: Fetching packet for removed entity bbg['Bone'/136466, l='ServerLevel[world]', x=-826.28, y=49.00, z=577.39]
-[01:22:04] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[01:29:49] [Server thread/INFO]: hellme burned to death
-[01:29:50] [Server thread/WARN]: hellme moved too quickly! 695.1574638365647,43.0000002,-423.6346648059143
-[01:29:58] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[01:29:58] [Server thread/WARN]: hellme moved too quickly! -701.2063678518371,-60.0,431.70931293290306
-[01:30:06] [Server thread/INFO]: hellme burned to death
-[01:30:13] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[01:30:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Cobblestone'/138561, l='ServerLevel[world]', x=-729.45, y=11.00, z=671.73]
-[01:33:10] [Server thread/INFO]: Rayz tried to swim in lava
-[01:35:04] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
-[02:20:10] [Server thread/INFO]: Rayz burned to death
-[02:20:12] [Server thread/WARN]: Rayz moved too quickly! 595.9550485042121,61.0000002,-373.7242917416959
-[02:22:23] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
-[02:24:55] [Server thread/INFO]: hellme tried to swim in lava
-[02:31:03] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[02:32:22] [Server thread/INFO]: hellme tried to swim in lava
-[02:32:24] [Server thread/WARN]: hellme moved too quickly! 639.7973010129563,62.0000002,-383.2321231323805
-[02:33:49] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[02:33:49] [Server thread/WARN]: hellme moved too quickly! -649.3856506300554,-47.0,365.0477796000181
-[02:33:49] [Server thread/WARN]: hellme moved too quickly! -649.3856506300554,-47.0,365.0477796000181
-[03:03:11] [Server thread/INFO]: hellme suffocated in a wall
-[03:03:16] [Server thread/INFO]: Rayz tried to swim in lava
-[03:03:17] [Server thread/WARN]: Rayz moved too quickly! 582.1023518059841,61.88721942133948,-364.3003890917172
-[03:03:47] [Server thread/INFO]: Rayz lost connection: Disconnected
-[03:03:47] [Server thread/INFO]: Rayz left the game
-[03:03:50] [Server thread/INFO]: Rayz[/106.107.182.131:57972] logged in with entity id 152083 at (-25.29957045508867, 71.0, 235.67696237741606)
-[03:03:50] [Server thread/INFO]: Rayz joined the game
-[03:30:03] [Server thread/INFO]: Rayz lost connection: Disconnected
-[03:30:03] [Server thread/INFO]: Rayz left the game
-[03:38:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/156644, l='ServerLevel[world]', x=-36.78, y=71.00, z=254.66]
-[03:54:22] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/158319, l='ServerLevel[world]', x=-33.40, y=71.00, z=255.09]
-[04:02:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/159133, l='ServerLevel[world]', x=-37.36, y=71.00, z=251.15]
-[04:16:08] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/160406, l='ServerLevel[world]', x=-21.91, y=71.00, z=255.61]
-[04:17:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/160554, l='ServerLevel[world]', x=-21.85, y=71.00, z=255.00]
-[04:28:58] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/161606, l='ServerLevel[world]', x=-37.86, y=71.00, z=250.99]
-[04:42:51] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/163141, l='ServerLevel[world]', x=-30.28, y=71.00, z=250.08]
-[04:48:29] [Server thread/INFO]: hellme lost connection: Disconnected
-[04:48:29] [Server thread/INFO]: hellme left the game
-[14:14:24] [Server thread/INFO]: Zark[/140.117.191.192:20363] logged in with entity id 163727 at (-30.075722371071574, 71.0, 238.16527906781084)
-[14:14:24] [Server thread/INFO]: Zark joined the game
-[14:14:53] [Server thread/INFO]: Zark lost connection: Disconnected
-[14:14:53] [Server thread/INFO]: Zark left the game
-[14:15:31] [Server thread/INFO]: Zark[/49.216.229.198:46697] logged in with entity id 163834 at (-30.075722371071574, 71.0, 238.16527906781084)
-[14:15:31] [Server thread/INFO]: Zark joined the game
-[14:19:43] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/164290, l='ServerLevel[world]', x=-21.87, y=71.00, z=250.22]
-[14:24:15] [Server thread/INFO]: 江鳥[/114.38.87.88:60837] logged in with entity id 164704 at (54.5, 70.0, 239.5)
-[14:24:15] [Server thread/INFO]: 江鳥 joined the game
-[14:24:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=63, y=68, z=234}
-[14:24:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=63, y=68, z=234}
-[14:24:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=63, y=68, z=234}
-[14:24:53] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=62, y=67, z=228}
-[14:24:53] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=63, y=67, z=229}
-[14:24:56] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=63, y=67, z=230}
-[14:25:00] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=64, y=67, z=229}
-[14:25:00] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=67, y=67, z=229}
-[14:25:20] [Server thread/INFO]: <Zark> 安安阿
-[14:25:55] [Server thread/INFO]: <江鳥> 哈囉
-[14:26:00] [Server thread/INFO]: 江鳥 was slain by Zombie
-[14:26:14] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=68, y=66, z=255}
-[14:26:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=66, y=67, z=256}
-[14:26:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=66, y=67, z=256}
-[14:26:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=67, y=67, z=255}
-[14:26:16] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=67, y=67, z=255}
-[14:26:16] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=0, y=0, z=0} fu{x=68, y=66, z=255}
-[14:28:12] [Server thread/INFO]: hellme[/114.38.64.129:64627] logged in with entity id 165384 at (15.24362819435627, 43.0, 209.36755542157462)
-[14:28:12] [Server thread/INFO]: hellme joined the game
-[14:28:26] [Server thread/INFO]: <Zark> 嗨嗨
-[14:28:41] [Server thread/INFO]: <hellme> 帶同學來玩
-[14:29:08] [Server thread/INFO]: <Zark> 恩恩
-[14:29:28] [Server thread/INFO]: <Zark> 剛剛外面有像強盜的人
-[14:29:38] [Server thread/INFO]: <Zark> 可能白天會再來吧
-[14:30:12] [Server thread/INFO]: <hellme> 他也是新手
-[14:31:52] [Server thread/INFO]: <Zark> 好喔 新手同盟ouo
-[14:32:02] [Server thread/INFO]: 江鳥 lost connection: Disconnected
-[14:32:02] [Server thread/INFO]: 江鳥 left the game
-[14:33:31] [Server thread/INFO]: 江鳥[/114.38.87.88:62374] logged in with entity id 166200 at (-27.539672797601597, 71.0, 246.5289220516836)
-[14:33:31] [Server thread/INFO]: 江鳥 joined the game
-[14:34:22] [Server thread/INFO]: <江鳥> 這遊戲好難:(
-[14:34:59] [Server thread/INFO]: <Zark> 沒關係我到現在也是亂晃而已xd
-[14:35:35] [Server thread/INFO]: <江鳥> 天啊我快被羊駝的口水淹死了
-[14:35:44] [Server thread/INFO]: <江鳥> 傻眼
-[14:36:27] [Server thread/INFO]: <Zark> 沒是他們都被我關起來了:)
-[14:36:37] [Server thread/INFO]: <Zark> 在吐口水阿:)))
-[14:37:01] [Server thread/INFO]: <江鳥> 笑爆ww
-[14:37:42] [Server thread/INFO]: <Zark> 我們有褐色羊駝跟白色羊駝囉WWW
-[14:38:31] [Server thread/INFO]: <江鳥> 他還在裡面狂吐
-[14:38:50] [Server thread/INFO]: <江鳥> 會不會打開淹死阿:))
-[14:39:50] [Server thread/INFO]: 江鳥 was slain by Spider
-[14:47:56] [Server thread/INFO]: Rayz[/106.107.182.131:50394] logged in with entity id 168584 at (-26.955083781120237, 71.0, 235.67024094568097)
-[14:47:56] [Server thread/INFO]: Rayz joined the game
-[14:48:07] [Server thread/INFO]: <Zark> 嗨嗨
-[14:50:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/168852, l='ServerLevel[world]', x=-31.85, y=71.00, z=250.02]
-[14:50:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/168852, l='ServerLevel[world]', x=-31.85, y=71.00, z=250.02]
-[14:50:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/168852, l='ServerLevel[world]', x=-31.85, y=71.00, z=250.02]
-[14:50:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/168852, l='ServerLevel[world]', x=-31.85, y=71.00, z=250.02]
-[14:50:49] [Server thread/INFO]: <Rayz> 去昨天的礦場續攤?
-[14:51:03] [Server thread/INFO]: <Rayz> 兩個傻子
-[14:51:09] [Server thread/INFO]: <hellme> DC?
-[14:51:23] [Server thread/INFO]: <Rayz> 哪個?七宗?還是我的
-[14:51:31] [Server thread/INFO]: <hellme> 看你囉
-[14:52:11] [Server thread/INFO]: <Rayz> 不然你來我房吧
-[14:52:47] [Server thread/INFO]: <江鳥> 好色喔
-[14:59:24] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/170104, l='ServerLevel[world]', x=-26.88, y=71.00, z=250.47]
-[14:59:24] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/170104, l='ServerLevel[world]', x=-26.88, y=71.00, z=250.47]
-[14:59:24] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/170104, l='ServerLevel[world]', x=-26.88, y=71.00, z=250.47]
-[14:59:24] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/170104, l='ServerLevel[world]', x=-26.88, y=71.00, z=250.47]
-[15:03:45] [Server thread/INFO]: <Rayz> 躺著
-[15:10:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/172609, l='ServerLevel[world]', x=-26.13, y=71.00, z=255.33]
-[15:10:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/172609, l='ServerLevel[world]', x=-26.13, y=71.00, z=255.33]
-[15:10:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/172609, l='ServerLevel[world]', x=-26.13, y=71.00, z=255.33]
-[15:11:44] [Server thread/INFO]: [hellme: Teleported hellme to 江鳥]
-[15:13:34] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/173378, l='ServerLevel[world]', x=-37.39, y=71.00, z=255.86]
-[15:13:34] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/173378, l='ServerLevel[world]', x=-37.39, y=71.00, z=255.86]
-[15:13:34] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/173378, l='ServerLevel[world]', x=-37.39, y=71.00, z=255.86]
-[15:15:07] [Server thread/INFO]: [Rayz: Teleported 江鳥 to Rayz]
-[15:15:15] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/173805, l='ServerLevel[world]', x=-36.52, y=71.00, z=251.57]
-[15:15:15] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/173805, l='ServerLevel[world]', x=-36.52, y=71.00, z=251.57]
-[15:15:21] [Server thread/INFO]: [Rayz: Teleported hellme to Rayz]
-[15:15:21] [Server thread/WARN]: hellme moved too quickly! -623.3874154837471,-50.0,377.0895910787312
-[15:15:21] [Server thread/WARN]: hellme moved too quickly! -623.3874154837471,-50.0,377.0895910787312
-[15:15:40] [Server thread/INFO]: [Rayz: Teleported Zark to Rayz]
-[15:19:44] [Server thread/INFO]: [Rayz: Teleported Rayz to Zark]
-[15:29:41] [Server thread/INFO]: Zark lost connection: Disconnected
-[15:29:41] [Server thread/INFO]: Zark left the game
-[15:34:28] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/178153, l='ServerLevel[world]', x=-561.71, y=18.62, z=569.49]
-[15:41:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Cobblestone'/179759, l='ServerLevel[world]', x=-647.49, y=9.00, z=617.13]
-[15:48:28] [Server thread/INFO]: Rayz burned to death
-[16:26:51] [Server thread/INFO]: 江鳥 was shot by Skeleton
-[16:26:59] [Server thread/WARN]: 江鳥 moved too quickly! 524.2630937115733,33.48768320924013,-491.95670954065804
-[16:27:47] [Server thread/INFO]: 江鳥 lost connection: Disconnected
-[16:27:47] [Server thread/INFO]: 江鳥 left the game
-[16:36:22] [Server thread/INFO]: Rayz lost connection: Timed out
-[16:36:22] [Server thread/INFO]: Rayz left the game
-[16:51:22] [Server thread/INFO]: Rayz[/106.107.182.131:50609] logged in with entity id 195927 at (-614.3811687348318, 24.0, 617.7812581447401)
-[16:51:22] [Server thread/INFO]: Rayz joined the game
-[17:12:39] [Server thread/INFO]: hellme lost connection: Disconnected
-[17:12:39] [Server thread/INFO]: hellme left the game
-[17:25:26] [Server thread/INFO]: Rayz lost connection: Disconnected
-[17:25:26] [Server thread/INFO]: Rayz left the game
-[17:42:54] [Server thread/INFO]: hellme[/114.38.64.129:64830] logged in with entity id 201908 at (-570.4802554078631, 32.0, 636.4097402290136)
-[17:42:54] [Server thread/INFO]: hellme joined the game
-[17:51:29] [Server thread/INFO]: hellme lost connection: Disconnected
-[17:51:29] [Server thread/INFO]: hellme left the game
-[18:05:10] [Server thread/INFO]: hellme[/114.38.64.129:64855] logged in with entity id 203298 at (-570.3624508272281, 32.0, 635.6610126077563)
-[18:05:10] [Server thread/INFO]: hellme joined the game
-[18:12:10] [Server thread/INFO]: hellme lost connection: Disconnected
-[18:12:10] [Server thread/INFO]: hellme left the game
-[18:51:59] [Server thread/INFO]: hellme[/114.38.64.129:64891] logged in with entity id 204229 at (-573.7933553448679, 32.0, 636.7755813058409)
-[18:51:59] [Server thread/INFO]: hellme joined the game
-[18:52:15] [Server thread/INFO]: hellme lost connection: Disconnected
-[18:52:15] [Server thread/INFO]: hellme left the game
-[18:55:30] [Server thread/INFO]: hellme[/114.38.64.129:64897] logged in with entity id 204449 at (-573.7933553448679, 32.0, 636.7755813058409)
-[18:55:30] [Server thread/INFO]: hellme joined the game
-[18:59:16] [Server thread/WARN]: hellme moved wrongly!
-[19:28:34] [Server thread/INFO]: hellme lost connection: Disconnected
-[19:28:34] [Server thread/INFO]: hellme left the game
-[19:50:36] [Server thread/INFO]: Zark[/49.216.229.198:46623] logged in with entity id 208426 at (-604.731983615812, 22.0, 586.5399132254637)
-[19:50:36] [Server thread/INFO]: Zark joined the game
-[19:57:52] [Server thread/INFO]: Zark lost connection: Timed out
-[19:57:52] [Server thread/INFO]: Zark left the game
-[20:01:47] [Server thread/INFO]: Zark[/49.216.229.198:46745] logged in with entity id 209356 at (-601.6999999880791, 22.0, 588.6999999880791)
-[20:01:47] [Server thread/INFO]: Zark joined the game
-[20:26:16] [Server thread/INFO]: Zark was shot by Skeleton
-[20:28:34] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/212089, l='ServerLevel[world]', x=-30.56, y=71.00, z=251.03]
-[20:33:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/212764, l='ServerLevel[world]', x=-21.64, y=71.00, z=256.12]
+[00:18:13] [Server thread/INFO]: Zark was shot by Pillager
+[01:01:48] [Server thread/INFO]: Zark lost connection: Timed out
+[01:01:48] [Server thread/INFO]: Zark left the game
+[01:01:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/251850, l='ServerLevel[world]', x=-37.45, y=71.00, z=252.98]
+[01:02:18] [Server thread/INFO]: Zark[/140.117.191.193:28515] logged in with entity id 251881 at (-31.16750040056979, 71.0, 235.0762746509503)
+[01:02:18] [Server thread/INFO]: Zark joined the game
+[01:02:29] [Server thread/INFO]: Zark lost connection: Disconnected
+[01:02:29] [Server thread/INFO]: Zark left the game
+[01:07:28] [Server thread/INFO]: Zark[/49.216.229.198:47323] logged in with entity id 252524 at (-31.16750040056979, 71.0, 235.0762746509503)
+[01:07:28] [Server thread/INFO]: Zark joined the game
+[01:07:49] [Server thread/INFO]: Zark lost connection: Disconnected
+[01:07:49] [Server thread/INFO]: Zark left the game
+[01:07:51] [Server thread/INFO]: Zark[/49.216.229.198:47051] logged in with entity id 252596 at (-31.16750040056979, 71.0, 235.0762746509503)
+[01:07:51] [Server thread/INFO]: Zark joined the game
+[01:35:41] [Server thread/INFO]: Zark was slain by Zombie
+[01:45:31] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/258603, l='ServerLevel[world]', x=-22.16, y=71.00, z=250.66]
+[02:43:32] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/267450, l='ServerLevel[world]', x=-38.03, y=71.00, z=255.15]
+[02:43:32] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/267450, l='ServerLevel[world]', x=-38.03, y=71.00, z=255.15]
+[02:51:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/268499, l='ServerLevel[world]', x=-28.04, y=71.00, z=255.07]
+[02:51:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/268499, l='ServerLevel[world]', x=-28.04, y=71.00, z=255.07]
+[03:01:30] [Server thread/INFO]: Rayz lost connection: Disconnected
+[03:01:30] [Server thread/INFO]: Rayz left the game
+[03:14:13] [Server thread/INFO]: Zark lost connection: Disconnected
+[03:14:13] [Server thread/INFO]: Zark left the game
