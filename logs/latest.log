@@ -1,57 +1,36 @@
-[00:10:45] [Server thread/INFO]: Rayz lost connection: Disconnected
-[00:10:45] [Server thread/INFO]: Rayz left the game
-[00:45:22] [Server thread/INFO]: Zark[/49.216.229.198:47123] logged in with entity id 456199 at (-27.233845635206126, 76.0, 239.98864271700157)
-[00:45:22] [Server thread/INFO]: Zark joined the game
-[01:15:23] [Server thread/INFO]: Rayz[/106.107.182.131:62492] logged in with entity id 459618 at (-25.858186787338052, 71.0, 234.90205937941744)
-[01:15:23] [Server thread/INFO]: Rayz joined the game
-[01:34:35] [Server thread/INFO]: [Rayz: Teleported Zark to Rayz]
-[01:39:34] [Server thread/INFO]: [Rayz: Teleported Zark to Rayz]
-[01:42:26] [Server thread/INFO]: [Rayz: Teleported Zark to Rayz]
-[01:56:39] [Server thread/INFO]: <Zark> 我用打字喔
-[01:56:47] [Server thread/INFO]: <Zark> 你可以繼續說哈哈哈
-[01:56:54] [Server thread/INFO]: <Zark> sleep?
-[02:23:06] [Server thread/INFO]: Rayz lost connection: Disconnected
-[02:23:06] [Server thread/INFO]: Rayz left the game
-[03:04:19] [Server thread/INFO]: Zark lost connection: Disconnected
-[03:04:19] [Server thread/INFO]: Zark left the game
-[15:58:51] [Server thread/INFO]: Zark[/49.216.229.198:46633] logged in with entity id 475355 at (-2.619877364844292, 71.0, 259.01170200852033)
-[15:58:51] [Server thread/INFO]: Zark joined the game
-[16:01:58] [Server thread/INFO]: Rayz[/106.107.182.131:64272] logged in with entity id 475694 at (-29.065188187808285, 71.0, 234.66502909019616)
-[16:01:58] [Server thread/INFO]: Rayz joined the game
-[16:02:13] [Server thread/INFO]: <Zark> hi
-[16:02:32] [Server thread/INFO]: <Zark> 我要去挖沙了
-[16:02:46] [Server thread/INFO]: <Rayz> 我想重蓋狗窩ㄝ
-[16:02:52] [Server thread/INFO]: <Rayz> 然後瞬變快斬家裡
-[16:02:58] [Server thread/INFO]: <Rayz> 擴展
-[16:03:00] [Server thread/INFO]: <Rayz> 向外延伸
-[16:03:01] [Server thread/INFO]: <Zark> 可以呀
-[16:03:13] [Server thread/INFO]: <Zark> 挖 這樣要不要幫你填土啊
-[16:03:22] [Server thread/INFO]: <Zark> 前面都滿了
-[16:03:26] [Server thread/INFO]: <Rayz> 應該不用吧
-[16:03:32] [Server thread/INFO]: <Zark> 好喔
-[16:03:32] [Server thread/INFO]: <Rayz> 我想往狗窩那邊快斬
-[16:03:35] [Server thread/INFO]: <Rayz> 擴展
-[16:03:37] [Server thread/INFO]: <Zark> 恩恩
-[16:18:57] [Server thread/INFO]: <Zark> 剛剛不小心放出一隻兔子 不過他自己採開壓力版去外面了
-[16:19:13] [Server thread/INFO]: <Zark> 然後每幅現在是聖誕活動....
-[16:19:19] [Server thread/INFO]: <Zark> 好乾ㄉ感覺
-[16:21:03] [Server thread/INFO]: <Rayz> DC?
-[16:21:33] [Server thread/INFO]: <Zark> OK
-[16:23:36] [Server thread/INFO]: <Rayz> 聽得道我說話嗎?
-[16:23:57] [Server thread/INFO]: <Zark> 沒有欸
-[16:24:07] [Server thread/INFO]: <Zark> 你說我才發現你在說畫
-[16:24:14] [Server thread/INFO]: <Zark> 等我一下我看看是不是我的問題
-[16:25:08] [Server thread/INFO]: <Zark> 還是沒有欸
-[17:36:12] [Server thread/INFO]: Zark lost connection: Disconnected
-[17:36:12] [Server thread/INFO]: Zark left the game
-[17:40:42] [Server thread/INFO]: Rayz lost connection: Disconnected
-[17:40:42] [Server thread/INFO]: Rayz left the game
-[18:13:10] [Server thread/INFO]: Rayz[/106.107.182.131:65376] logged in with entity id 490659 at (-25.938817817466525, 71.0, 235.292323700901)
-[18:13:10] [Server thread/INFO]: Rayz joined the game
-[18:27:40] [Server thread/INFO]: Rayz lost connection: Disconnected
-[18:27:40] [Server thread/INFO]: Rayz left the game
-[22:44:26] [Server thread/INFO]: Zark[/49.216.229.198:46629] logged in with entity id 492773 at (-29.159392509573877, 71.0, 235.2422557739132)
-[22:44:26] [Server thread/INFO]: Zark joined the game
-[22:58:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/494582, l='ServerLevel[world]', x=-38.09, y=71.00, z=250.30]
-[23:10:51] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/495975, l='ServerLevel[world]', x=-37.53, y=71.00, z=250.87]
-[23:45:03] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/499512, l='ServerLevel[world]', x=-37.39, y=71.00, z=256.17]
+[00:03:24] [Server thread/INFO]: hellme drowned
+[00:10:19] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
+[00:14:40] [Server thread/INFO]: hellme was slain by Zombie
+[00:15:16] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
+[00:15:16] [Server thread/WARN]: Rayz moved too quickly! 631.7405398603421,37.49520087700593,42.2011422694693
+[00:17:38] [Server thread/INFO]: hellme fell from a high place
+[00:17:39] [Server thread/WARN]: hellme moved too quickly! -14.689141592478705,29.000000200000002,18.891776782523266
+[00:24:44] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
+[00:24:44] [Server thread/WARN]: hellme moved too quickly! -248.40269028066066,0.49984776242291673,-555.0584413449083
+[00:36:56] [Server thread/INFO]: Rayz fell from a high place
+[00:37:19] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
+[00:51:31] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
+[00:57:29] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
+[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
+[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
+[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
+[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
+[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
+[01:01:56] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
+[01:15:18] [Server thread/INFO]: Rayz lost connection: Disconnected
+[01:15:18] [Server thread/INFO]: Rayz left the game
+[01:15:21] [Server thread/INFO]: Rayz[/106.107.182.131:56118] logged in with entity id 640076 at (29.108619962937127, 81.0, -246.28143496093153)
+[01:15:21] [Server thread/INFO]: Rayz joined the game
+[01:23:25] [Server thread/INFO]: Zark[/49.216.229.198:47163] logged in with entity id 641388 at (-23.38149283362299, 71.0, 241.1497750687841)
+[01:23:25] [Server thread/INFO]: Zark joined the game
+[01:25:39] [Server thread/INFO]: <Zark> 欸 抱歉我忘記把斧頭放回去箱子了 你們需要再跟我說一下@@
+[01:25:45] [Server thread/INFO]: <Rayz> 沒關係
+[01:25:48] [Server thread/INFO]: <Rayz> 我這還有一把
+[01:25:58] [Server thread/INFO]: <Zark> 好喔
+[01:29:45] [Server thread/INFO]: Rayz lost connection: Disconnected
+[01:29:45] [Server thread/INFO]: Rayz left the game
+[01:31:16] [Server thread/INFO]: hellme lost connection: Disconnected
+[01:31:16] [Server thread/INFO]: hellme left the game
+[01:40:40] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/643351, l='ServerLevel[world]', x=-31.33, y=71.00, z=254.84]
+[02:52:39] [Server thread/INFO]: Zark lost connection: Disconnected
+[02:52:39] [Server thread/INFO]: Zark left the game
