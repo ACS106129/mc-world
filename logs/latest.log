@@ -1,36 +1,5 @@
-[00:03:24] [Server thread/INFO]: hellme drowned
-[00:10:19] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[00:14:40] [Server thread/INFO]: hellme was slain by Zombie
-[00:15:16] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
-[00:15:16] [Server thread/WARN]: Rayz moved too quickly! 631.7405398603421,37.49520087700593,42.2011422694693
-[00:17:38] [Server thread/INFO]: hellme fell from a high place
-[00:17:39] [Server thread/WARN]: hellme moved too quickly! -14.689141592478705,29.000000200000002,18.891776782523266
-[00:24:44] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[00:24:44] [Server thread/WARN]: hellme moved too quickly! -248.40269028066066,0.49984776242291673,-555.0584413449083
-[00:36:56] [Server thread/INFO]: Rayz fell from a high place
-[00:37:19] [Server thread/INFO]: [Rayz: Teleported Rayz to hellme]
-[00:51:31] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[00:57:29] [Server thread/INFO]: [hellme: Teleported hellme to Rayz]
-[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
-[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
-[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
-[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
-[01:01:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
-[01:01:56] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=52, y=57, z=-151} fu{x=50, y=64, z=-146}
-[01:15:18] [Server thread/INFO]: Rayz lost connection: Disconnected
-[01:15:18] [Server thread/INFO]: Rayz left the game
-[01:15:21] [Server thread/INFO]: Rayz[/106.107.182.131:56118] logged in with entity id 640076 at (29.108619962937127, 81.0, -246.28143496093153)
-[01:15:21] [Server thread/INFO]: Rayz joined the game
-[01:23:25] [Server thread/INFO]: Zark[/49.216.229.198:47163] logged in with entity id 641388 at (-23.38149283362299, 71.0, 241.1497750687841)
-[01:23:25] [Server thread/INFO]: Zark joined the game
-[01:25:39] [Server thread/INFO]: <Zark> 欸 抱歉我忘記把斧頭放回去箱子了 你們需要再跟我說一下@@
-[01:25:45] [Server thread/INFO]: <Rayz> 沒關係
-[01:25:48] [Server thread/INFO]: <Rayz> 我這還有一把
-[01:25:58] [Server thread/INFO]: <Zark> 好喔
-[01:29:45] [Server thread/INFO]: Rayz lost connection: Disconnected
-[01:29:45] [Server thread/INFO]: Rayz left the game
-[01:31:16] [Server thread/INFO]: hellme lost connection: Disconnected
-[01:31:16] [Server thread/INFO]: hellme left the game
-[01:40:40] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/643351, l='ServerLevel[world]', x=-31.33, y=71.00, z=254.84]
-[02:52:39] [Server thread/INFO]: Zark lost connection: Disconnected
-[02:52:39] [Server thread/INFO]: Zark left the game
+[01:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[02:05:27] [Server thread/INFO]: Zark[/49.216.229.198:46655] logged in with entity id 672564 at (-9.585994885363661, 71.0, 237.2688677461039)
+[02:05:27] [Server thread/INFO]: Zark joined the game
+[02:49:57] [Server thread/INFO]: Zark lost connection: Disconnected
+[02:49:57] [Server thread/INFO]: Zark left the game
