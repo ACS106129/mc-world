@@ -1,11 +1,27 @@
-[00:01:11] [Server thread/INFO]: Rayz lost connection: Disconnected
-[00:01:11] [Server thread/INFO]: Rayz left the game
-[01:09:19] [Server thread/INFO]: Rayz[/106.107.182.131:63694] logged in with entity id 120831 at (-30.859032468803736, 71.0, 234.71443092668756)
-[01:09:19] [Server thread/INFO]: Rayz joined the game
-[01:41:23] [Server thread/INFO]: Rayz lost connection: Disconnected
-[01:41:23] [Server thread/INFO]: Rayz left the game
-[12:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2463ms or 49 ticks behind
-[15:36:51] [Server thread/INFO]: Rayz[/106.107.182.131:49729] logged in with entity id 131024 at (-27.78350743440061, 71.0, 235.458309506578)
-[15:36:51] [Server thread/INFO]: Rayz joined the game
-[16:01:01] [Server thread/INFO]: Rayz lost connection: Disconnected
-[16:01:01] [Server thread/INFO]: Rayz left the game
+[01:14:24] [Server thread/INFO]: Rayz[/106.107.182.131:53897] logged in with entity id 134941 at (-29.638052824648902, 71.0, 235.87980381776478)
+[01:14:24] [Server thread/INFO]: Rayz joined the game
+[01:19:05] [Server thread/INFO]: Rayz lost connection: Disconnected
+[01:19:05] [Server thread/INFO]: Rayz left the game
+[02:31:18] [Server thread/INFO]: Rayz[/106.107.182.131:55142] logged in with entity id 135733 at (-29.896915918442335, 71.0, 235.27984647582335)
+[02:31:18] [Server thread/INFO]: Rayz joined the game
+[02:35:19] [Server thread/INFO]: Rayz lost connection: Disconnected
+[02:35:19] [Server thread/INFO]: Rayz left the game
+[03:09:15] [Server thread/INFO]: Zark[/101.10.61.175:55255] logged in with entity id 136347 at (-35.067333361816736, 76.5625, 231.3358283128156)
+[03:09:15] [Server thread/INFO]: Zark joined the game
+[03:10:27] [Server thread/INFO]: Zark lost connection: Disconnected
+[03:10:27] [Server thread/INFO]: Zark left the game
+[14:38:11] [Server thread/INFO]: hellme[/114.38.75.137:65253] logged in with entity id 136490 at (162.27189253599573, 98.0, 426.8191351982824)
+[14:38:11] [Server thread/INFO]: hellme joined the game
+[15:32:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=205, y=106, z=470} fu{x=203, y=105, z=470}
+[15:32:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=171, y=98, z=487} fu{x=170, y=98, z=487}
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=171, y=98, z=487} fu{x=170, y=98, z=487}
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=171, y=98, z=487} fu{x=170, y=98, z=487}
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=171, y=98, z=487} fu{x=170, y=98, z=487}
+[15:32:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=171, y=98, z=487} fu{x=170, y=98, z=487}
+[17:53:40] [Server thread/INFO]: hellme fell from a high place
+[18:15:49] [Server thread/INFO]: hellme lost connection: Disconnected
+[18:15:49] [Server thread/INFO]: hellme left the game
+[19:42:10] [Server thread/INFO]: Rayz[/106.107.182.131:57465] logged in with entity id 165651 at (-30.899658657185178, 71.0, 235.30551384977028)
+[19:42:10] [Server thread/INFO]: Rayz joined the game
+[19:50:59] [Server thread/INFO]: Rayz lost connection: Disconnected
+[19:50:59] [Server thread/INFO]: Rayz left the game
