@@ -1,4 +1,18 @@
-[01:29:30] [Server thread/INFO]: Rayz[/106.107.182.131:59507] logged in with entity id 397405 at (-28.176910406456823, 71.0, 234.5100023392482)
-[01:29:30] [Server thread/INFO]: Rayz joined the game
-[01:54:10] [Server thread/INFO]: Rayz lost connection: Disconnected
-[01:54:10] [Server thread/INFO]: Rayz left the game
+[02:08:48] [Server thread/INFO]: Rayz[/106.107.182.131:52971] logged in with entity id 410786 at (-31.165843424216174, 71.0, 233.65112049720761)
+[02:08:48] [Server thread/INFO]: Rayz joined the game
+[02:12:03] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/411287, l='ServerLevel[world]', x=-37.62, y=71.00, z=254.90]
+[02:14:31] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/411571, l='ServerLevel[world]', x=-36.89, y=71.00, z=256.03]
+[02:15:41] [Server thread/INFO]: Rayz lost connection: Disconnected
+[02:15:41] [Server thread/INFO]: Rayz left the game
+[17:32:30] [Server thread/INFO]: Rayz[/106.107.182.131:56794] logged in with entity id 411712 at (-30.591009236031947, 71.0, 233.12812239791037)
+[17:32:30] [Server thread/INFO]: Rayz joined the game
+[17:47:17] [Server thread/INFO]: Rayz lost connection: Timed out
+[17:47:17] [Server thread/INFO]: Rayz left the game
+[17:47:22] [Server thread/INFO]: Rayz[/106.107.182.131:56807] logged in with entity id 413832 at (-24.78644659045227, 71.0, 239.85964034175592)
+[17:47:22] [Server thread/INFO]: Rayz joined the game
+[17:50:24] [Server thread/INFO]: Rayz lost connection: Disconnected
+[17:50:24] [Server thread/INFO]: Rayz left the game
+[17:50:28] [Server thread/INFO]: Rayz[/106.107.182.131:56812] logged in with entity id 414251 at (-0.3400576516532846, 70.9375, 275.3127611133717)
+[17:50:28] [Server thread/INFO]: Rayz joined the game
+[17:56:42] [Server thread/INFO]: Rayz lost connection: Disconnected
+[17:56:42] [Server thread/INFO]: Rayz left the game
