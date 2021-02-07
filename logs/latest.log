@@ -1,15 +1,29 @@
-[02:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
-[04:35:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[04:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[05:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
-[05:39:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[06:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[07:15:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[07:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
-[07:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
-[08:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[08:46:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3067ms or 61 ticks behind
-[10:35:03] [Server thread/INFO]: hellme[/114.38.73.126:62057] logged in with entity id 9143 at (16.300000011920925, 87.0, 214.91503441024807)
-[10:35:03] [Server thread/INFO]: hellme joined the game
-[11:03:52] [Server thread/INFO]: hellme lost connection: Disconnected
-[11:03:52] [Server thread/INFO]: hellme left the game
+[11:16:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:17:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:17:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:17:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:17:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:17:00] [main/INFO]: Reloading ResourceManager: Default
+[11:17:00] [Worker-Main-12/INFO]: Loaded 7 recipes
+[11:17:01] [Worker-Main-12/INFO]: Loaded 927 advancements
+[11:17:03] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[11:17:03] [Server thread/INFO]: Loading properties
+[11:17:03] [Server thread/INFO]: Default game type: SURVIVAL
+[11:17:03] [Server thread/INFO]: Generating keypair
+[11:17:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:17:04] [Server thread/INFO]: Using epoll channel type
+[11:17:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:17:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:17:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:17:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:17:04] [Server thread/INFO]: Preparing level "world"
+[11:17:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:17:06] [Server thread/INFO]: Preparing spawn area: 0%
+[11:17:06] [Server thread/INFO]: Preparing spawn area: 0%
+[11:17:06] [Server thread/INFO]: Preparing spawn area: 0%
+[11:17:06] [Server thread/INFO]: Preparing spawn area: 0%
+[11:17:06] [Server thread/INFO]: Preparing spawn area: 0%
+[11:17:07] [Server thread/INFO]: Preparing spawn area: 0%
+[11:17:07] [Server thread/INFO]: Time elapsed: 3266 ms
+[11:17:07] [Server thread/INFO]: Done (3.407s)! For help, type "help"
+[11:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
