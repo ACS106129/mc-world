@@ -1,0 +1,63 @@
+[04:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[05:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[06:47:05] [Server thread/ERROR]: Could not save data bfj@168ffb81
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_282]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_282]
+	at lo.a(SourceFile:31) ~[server.jar:?]
+	at czq.a(SourceFile:52) ~[server.jar:?]
+	at daa.a(SourceFile:121) ~[server.jar:?]
+	at zd.ag(SourceFile:711) ~[server.jar:?]
+	at zd.a(SourceFile:699) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:569) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:832) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
+[06:47:05] [Server thread/ERROR]: Could not save data bfj@63d3a7a8
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_282]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_282]
+	at lo.a(SourceFile:31) ~[server.jar:?]
+	at czq.a(SourceFile:52) ~[server.jar:?]
+	at daa.a(SourceFile:121) ~[server.jar:?]
+	at zd.ag(SourceFile:711) ~[server.jar:?]
+	at zd.a(SourceFile:699) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:569) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:832) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
+[06:47:05] [Server thread/ERROR]: Could not save data bfj@12f46c52
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_282]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_282]
+	at lo.a(SourceFile:31) ~[server.jar:?]
+	at czq.a(SourceFile:52) ~[server.jar:?]
+	at daa.a(SourceFile:121) ~[server.jar:?]
+	at zd.ag(SourceFile:711) ~[server.jar:?]
+	at zd.a(SourceFile:699) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:569) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:832) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_282]
+[06:47:05] [Server thread/ERROR]: Failed to save level ./world
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_282]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_282]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_282]
+	at lo.a(SourceFile:31) ~[server.jar:?]
+	at dae$a.a(SourceFile:348) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:
